@@ -61,7 +61,7 @@ Who or what is behind this disaster? To find out, you have to explore the city. 
 
 If you get stuck in the game, activate the help texts. If you have further technical or content-related questions, open up the Readme file under `Start/Programme/Terzio`.
 
-There is also help on the Internet at www.weltderwunder-game.de/support.
+There is also help on the internet at www.weltderwunder-game.de/support.
 
 ## Your mobile computer unit
 
