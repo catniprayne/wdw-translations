@@ -51,7 +51,7 @@ In order to play “World of Wonder: A City Goes Crazy”, you must follow the s
 ### QuickTime
 For an optimal game experience, QuickTime 5.0 is required. If QuickTime 5.0 is not installed on the PC unit, install it with the game installation process. You can also find a installation file for QuickTime 5.0 in `Setup/3rdParty` on your CD-ROM.
 
-## Solve your second cases as Top Agent Benjy from the “World of Wonders” headquarter.
+## Solve your second case as Top Agent Benjy from the “World of Wonders” headquarter.
 
 The nightmare for every small town: contaminated drinking water infects the inhabitants with a strange disease. Almost everyone has left the town because of it. No antidote has been found yet, time is running out.
 
